@@ -12,7 +12,7 @@ My personal portfolio site, built with vanilla HTML/CSS/JS and deployed on **Ver
 | **ACS Website** | HTML + CSS | — |
 | **Kaze** | SvelteKit + Svelte 5 Runes + TypeScript + TradingView + Turso | Vercel → [kazecrypto.vercel.app](https://kazecrypto.vercel.app) |
 | **FB Mock** | HTML + CSS + Prototype | — |
-| **Ukiyo Kanban Todo** | SvelteKit + Svelte 5 Runes + Drag & Drop + Auth + Turso | Vercel → [ukiyo-tanban.vercel.app](https://ukiyo-tanban.vercel.app) |
+| **Ukiyo Kanban Todo** | SvelteKit + Svelte 5 Runes + Drag & Drop + Auth + Turso | Vercel → [ukiyo-kanban.vercel.app](https://ukiyo-kanban.vercel.app) |
 | **Weather Dashboard** | API + JavaScript + CSS | — |
 
 ## Tech
